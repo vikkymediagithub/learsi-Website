@@ -203,10 +203,10 @@ color: #212741;
  justify-content: space-around;
 }
 
-.pre-foot img {
- /* object-fit:cover; */
- /* padding: 10px; */
-}
+/* .pre-foot img {
+  object-fit:cover; 
+  padding: 10px;
+} */
 
 footer {
  background-color: #0e132c;
@@ -341,10 +341,10 @@ text-align: center;
   .pre-foot .dis-2 {
       display: none;
     }
-    .prefoot img{
-      /* display: block; */
-      /* margin: auto; */
-    }
+    /* .prefoot img{
+       display: block;
+       margin: auto; 
+    } */
     .header-text h1{
   font-size: 40px;
 }
